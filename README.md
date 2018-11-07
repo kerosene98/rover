@@ -10,4 +10,4 @@ Intended audience : Potential employers,contracting agencies and/or future custo
 
 Basic keys to mission success is movement, followed by automation and real world sensing / environment feed back. As the project progresses then add-ons such as test modules and additional sensors could be added.
 
-This project will be a conbination of embedded C and RUST. Biggest reward from this project will be the learning curve and pushing the curve of understanding and experimentation. 
+This project will be a combination of embedded C and RUST. Biggest reward from this project will be the learning curve and pushing the curve of understanding and experimentation. 
